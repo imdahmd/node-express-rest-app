@@ -1,6 +1,7 @@
 ## Purpose
 
-To demonstrate simple http server with GET and POST handlers, written in nodejs
+To demonstrate http server with GET and POST handlers, written in nodejs using [expressjs framework](http://expressjs.com/).
+Please contrast the code here with the code in node-simple-rest-app
 
 ### How does it work
 
